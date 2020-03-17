@@ -1,0 +1,33 @@
+
+
+#spaceship {
+
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    background-image: url("../PHP/Images/ship.png");
+    width: 60px;
+    height: 100px;
+}
+
+/* Oyun alanı */
+#canvas {
+    background-image: url("../Images/level1.png");
+    background-size: 1360px 680px;
+    background-repeat: no-repeat;
+    visibility: visible;
+    width: 1700px;
+    height: 910px;
+
+}
+
+/* Açılış mesajı "Working" */
+#opening {
+    position: absolute;
+    top: 20px;
+    left: 500px;
+    color: black;
+    font-family: "German";
+    font-size: 50px;
+}
+

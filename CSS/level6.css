@@ -1,0 +1,21 @@
+#spaceship {
+
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    background-image: url("../Images/level3ship.png");
+    background-size:100% 100%;
+    width: 73px;
+    height: 71px;
+}
+
+/* Oyun alanı */
+#canvas {
+    background-image: url("../Images/level3.png");
+    background-size: 1360px 680px;
+    background-repeat: no-repeat;
+    visibility: visible;
+    width: 1700px;
+    height: 910px;
+
+}

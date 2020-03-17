@@ -1,0 +1,39 @@
+
+
+
+
+#spaceship {
+
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    background-image: url("../Images/level3ship.png");
+    background-size:100% 100%;
+    width: 73px;
+    height: 71px;
+}
+
+/* Oyun alanı */
+#canvas {
+  position:absolute;
+    background-image: url("../Images/challange1.png");
+    /*background-color: aqua;*/
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    visibility: visible;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+#resimg {
+
+    margin-left: 25px;
+    display: block;
+    margin-bottom: 30px;
+
+}
+
+
+

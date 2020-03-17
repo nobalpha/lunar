@@ -1,0 +1,67 @@
+
+
+
+
+
+/* Oyun alanı */
+#canvas {
+    background-image: url("../Images/level1.png");
+    background-size: 1360px 680px;
+    background-repeat: no-repeat;
+    visibility: visible;
+    width: 1500px;
+    height: 910px;
+}
+
+#dialog {
+    visibility: visible;
+     position: absolute;
+     top: 355px;
+    
+     background-color: rgba(255, 0, 0, 0.5);
+    width:1357px;
+    border: 2px solid black;
+}
+#parole {
+   
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    width: 1000px;
+    top:10px;
+    left: 310px;
+}
+#parole2 {
+    font-size: 40px;
+    position: absolute;
+    color: white;
+    width: 1000px;
+    top:5px;
+    left: 310px;
+}
+
+#stalin {
+    width: 300px;
+    margin-top: 5px;
+     margin-left: 0px;
+     border-right:4px solid black;
+}
+#next {
+    position: absolute;
+    visibility: hidden;
+    top:220px;
+    left: 1280px;
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
